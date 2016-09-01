@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.0.1-beta</version>
+    <title>$title$</title>
+    <authors>Allan Lindqvist</authors>
+    <owners>Allan Lindqvist</owners>
+    <licenseUrl>https://github.com/aL3891/SpecFlow.ExtendedInjection/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/aL3891/SpecFlow.ExtendedInjection</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Enables custom di containers and step argument injection in SpecFlow</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Di Ioc dependenctinjection Specflow Test</tags>
+    <dependencies>
+      <group targetFramework="net452">
+        <dependency id="SpecFlow.CustomPlugin" version="2.1.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

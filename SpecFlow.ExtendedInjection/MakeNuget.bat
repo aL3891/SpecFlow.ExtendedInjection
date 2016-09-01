@@ -1,0 +1,1 @@
+nuget pack SpecFlow.ExtendedInjection.csproj -Prop Configuration=Release
