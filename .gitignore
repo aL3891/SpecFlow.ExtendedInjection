@@ -3,8 +3,7 @@
 ################################################################################
 
 /packages
-/SpecFlow.ExtendedInjection.SimpleInjector/obj/Debug
-/SpecFlow.ExtendedInjection.SimpleInjector/bin
-/SpecFlow.ExtendedInjection/obj/Debug
-/SpecFlow.ExtendedInjection/bin/Debug
-/.vs/SpecFlow.ExtendedInjection/v14
+**/obj
+**/bin
+/.vs
+*.nupkg

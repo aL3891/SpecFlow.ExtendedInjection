@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>0.0.1-beta</version>
-    <title>$title$</title>
+    <id>SpecFlow.ExtendedInjection</id>
+    <version>0.0.1-alpha</version>
+    <title>SpecFlow.ExtendedInjection</title>
     <authors>Allan Lindqvist</authors>
     <owners>Allan Lindqvist</owners>
     <licenseUrl>https://github.com/aL3891/SpecFlow.ExtendedInjection/blob/master/LICENSE</licenseUrl>
@@ -15,7 +15,7 @@
     <tags>Di Ioc dependenctinjection Specflow Test</tags>
     <dependencies>
       <group targetFramework="net452">
-        <dependency id="SpecFlow.CustomPlugin" version="2.1.0" />
+        <dependency id="SpecFlow" version="2.1.0" />
       </group>
     </dependencies>
   </metadata>
