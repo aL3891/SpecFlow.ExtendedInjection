@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/SpecFlow.ExtendedInjection.SimpleInjector/obj/Debug
+/SpecFlow.ExtendedInjection.SimpleInjector/bin
+/SpecFlow.ExtendedInjection/obj/Debug
+/SpecFlow.ExtendedInjection/bin/Debug
+/.vs/SpecFlow.ExtendedInjection/v14

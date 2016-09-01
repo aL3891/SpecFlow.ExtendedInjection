@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5778AABB-6831-47CE-B77E-6F4B8C75809F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow.ExtendedInjection", "SpecFlow.ExtendedInjection\SpecFlow.ExtendedInjection.csproj", "{1010FA1E-73A5-4CEC-8254-057E561CBD9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow.ExtendedInjection.SimpleInjector", "SpecFlow.ExtendedInjection.SimpleInjector\SpecFlow.ExtendedInjection.SimpleInjector.csproj", "{46251B6D-F42C-4472-BD07-C1700CDB4951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1010FA1E-73A5-4CEC-8254-057E561CBD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1010FA1E-73A5-4CEC-8254-057E561CBD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1010FA1E-73A5-4CEC-8254-057E561CBD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1010FA1E-73A5-4CEC-8254-057E561CBD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46251B6D-F42C-4472-BD07-C1700CDB4951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46251B6D-F42C-4472-BD07-C1700CDB4951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46251B6D-F42C-4472-BD07-C1700CDB4951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46251B6D-F42C-4472-BD07-C1700CDB4951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
